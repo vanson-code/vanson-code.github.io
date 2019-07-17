@@ -1,0 +1,38 @@
+@media screen and (max-width:1024px){
+    /* code web */
+
+}
+@media screen and (max-width:768px){
+    /* code web */
+    .header-left{
+        width: 60%;
+    }
+    .header-right{visibility: hidden;}
+    .header-bot{width: 100%;}
+    body{background: blanchedalmond}
+    .content-right{
+        width: 50%;
+    }
+    .content-right img{
+        display: flex;
+    }
+    .content-left{
+        width: 20%;
+    }
+
+}
+@media screen and (max-width:680px){
+    /* code web */
+    body{background: yellow;}
+
+}
+@media screen and (max-width:480px){
+    /* code web */
+    body{background: gray;}
+
+}
+@media screen and (max-width:320px){
+    /* code web */
+    body{background: green;}
+
+}
